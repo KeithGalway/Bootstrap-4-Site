@@ -280,11 +280,7 @@ hr.light-100 {
   [class*="col-"] {
       padding: 1rem;
   }
-  
-  
-  
-  
-  
+
   /*
   Extra small (xs) devices (portrait phones, less than 576px)
   No media query since this is the default in Bootstrap
